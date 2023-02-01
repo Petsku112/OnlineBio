@@ -4,7 +4,8 @@
 
 .nav-link,
 .navbar-brand {
-    
+    width: 90px;
+    height: 90px;
 }
 
 .nav-link{
